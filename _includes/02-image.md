@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Fun Logo](https://i.ibb.co/nm8B3pX/penduke.gif)
